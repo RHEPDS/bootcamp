@@ -6,18 +6,16 @@ Slidedecks for the enablement Session
 
  - **How to work with Red Hat** - [PDF](How to work with Red Hat.pdf)
  - **Red Hat Culture** - [PDF](Introducing_Open_Organizational_Culture.pdf)
- - **Hybrid Cloud Strategy** - [PDF](Fr_P1_Why Hybrid Cloud.pdf) 
+ - **Hybrid Cloud Strategy** - [PDF] https://github.com/RHEPDS/bootcamp/blob/main/Hybrid%20Cloud.pdf
 
 ## Day 2 RHEL & Ansible
  - **Ansible Automation Platform 2** - [PDF](Ansible Automation Platform 2.pdf)
  - **SAP Automation with Ansible** - [PDF](SAP-Automation.pdf)
 
 ## Day 3 Openshift Infrastructure
-  - **Openshift Innovation** - [PDF](Wed_P1_Red Hat OpenShift -- Innovation without limitation.pdf)
-  - **Openshift Architecture** - [PDF](Wed_P2_OpenShift 4 Architecture.pdf)
-  - **Openshift Installation** - [PDF](Wed_P3_OCP_Install.pdf)
-  - **Openshift Plus** - [PDF](Wed_P4_OpenShift Plus.pdf)
-  - **How to run a great Demo** - [PDF](Alfreds-Introduction into story telling.pdf)
+  - **Openshift Architecture** - https://github.com/RHEPDS/bootcamp/blob/main/OpenShift%20Operational.pdf
+  - **Openshift Plus** - https://github.com/RHEPDS/bootcamp/blob/main/OpenShift%20Plus.pdf
+  - **How to run a great Demo** - https://github.com/RHEPDS/bootcamp/blob/main/Introduction%20into%20story%20telling.pdf
 
 ## Day 4 Cloud Native, AI & Edge
 
@@ -25,9 +23,9 @@ Slidedecks for the enablement Session
   - **Introduction to CloudNative** - [PDF](Thu_CloudNative.pdf)
   - **OpenShift Data Science** - [PDF](Openshift Data Science Introduction.pdf)
   - **Developer Adoption Program** - [PDF](DeveloperAdoptionPartnerBootcamp.pdf)  
-  - **Edge Computing** - [PDF](Introduction to Edge Computing.pdf)    
+  - **Edge Computing** - https://github.com/RHEPDS/bootcamp/blob/main/OpenShift%20Edge.pdf
 
-(v1.0 7.7.22)
+(v1.1 11.11.22)
 
 
 
