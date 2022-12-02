@@ -11,3 +11,4 @@ aux_links:
   "Playbook examples":
     - "//www.redhat-partner.com"
 aux_links_new_tab: true
+search_enabled: false
