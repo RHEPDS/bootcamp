@@ -21,7 +21,7 @@ Slidedecks for the enablement Session
 
   - **OpenShift for Developers** - [PDF](https://github.com/RHEPDS/bootcamp/blob/main/Thu_OpenShift_For_Devs.pdf)
   - **Introduction to CloudNative** - [PDF](https://github.com/RHEPDS/bootcamp/blob/main/Thu_CloudNative.pdf)
-  - **OpenShift Data Science** - [PDF](https://github.com/RHEPDS/bootcamp/blob/main/Openshift%20Data%20Science%20Introduction.pdf)
+  - **OpenShift Data Science & Cloud Services** - [PDF](https://github.com/RHEPDS/bootcamp/blob/main/RHODS_Cloud_Services.pdf)
   - **Developer Adoption Program** - [PDF](https://github.com/RHEPDS/bootcamp/blob/main/DeveloperAdoptionPartnerBootcamp.pdf)  
   - **Edge Computing** - [PDF](https://github.com/RHEPDS/bootcamp/blob/main/OpenShift%20Edge.pdf)
 
