@@ -8,7 +8,7 @@ logo: "img/rhepds.png"
 aux_links:
   "Main Page":
     - "//rhepds.github.io"
-  "Playbook examples":
+  "Red Hat Partner Page":
     - "//www.redhat-partner.com"
 aux_links_new_tab: true
 search_enabled: false
