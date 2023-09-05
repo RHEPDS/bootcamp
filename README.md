@@ -9,7 +9,7 @@ Slidedecks for the enablement Session
  - **Hybrid Cloud Strategy** - [PDF](https://github.com/RHEPDS/bootcamp/blob/main/Hybrid%20Cloud.pdf)
 
 ## Day 2 RHEL & Ansible
- - **Ansible Automation Platform 2** - [PDF](https://github.com/RHEPDS/bootcamp/blob/main/Ansible%20Automation%20Platform%202.pdf)
+ - **Ansible Automation Platform 2** - [PDF](https://github.com/RHEPDS/bootcamp/blob/main/Red%20Hat%20Ansible%20Automation%20Platform%20Technical%20Deck%20-%20V230809.pdf)
  - **SAP Automation with Ansible** - [PDF](https://github.com/RHEPDS/bootcamp/blob/main/SAP-Automation.pdf)
 
 ## Day 3 Openshift Infrastructure
