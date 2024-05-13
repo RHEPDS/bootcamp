@@ -14,16 +14,15 @@ Slidedecks for the enablement Session
  - **SAP Automation with Ansible** - [PDF](https://github.com/RHEPDS/bootcamp/blob/main/SAP-Automation.pdf)
 
 ## Day 3 Openshift Infrastructure
-  - **Openshift Architecture** - [PDF](https://github.com/RHEPDS/bootcamp/blob/main/OpenShift%20Operational.pdf)
-  - **Openshift Plus** - [PDF](https://github.com/RHEPDS/bootcamp/blob/main/OpenShift%20Plus.pdf)
-  - **How to run a great Demo** - [PDF](https://github.com/RHEPDS/bootcamp/blob/main/Introduction%20into%20story%20telling.pdf)
+  - **Openshift Architecture & Plus** - [PDF](https://github.com/RHEPDS/bootcamp/blob/main/Partner%20Bootcamp%20OpenShift%20_%20PLUS.pdf)
+  - **OpenShift AI** - [PDF](https://github.com/RHEPDS/bootcamp/blob/main/RHODS_Cloud_Services.pdf)
+  - **Openshift Virtualisation** - [PDF](https://github.com/RHEPDS/bootcamp/blob/main/OCPVirt.pdf)
 
 ## Day 4 Cloud Native, AI & Edge
 
   - **OpenShift for Developers** - [PDF](https://github.com/RHEPDS/bootcamp/blob/main/Thu_OpenShift_For_Devs.pdf)
   - **Introduction to CloudNative** - [PDF](https://github.com/RHEPDS/bootcamp/blob/main/Thu_CloudNative.pdf)
-  - **OpenShift Data Science & Cloud Services** - [PDF](https://github.com/RHEPDS/bootcamp/blob/main/RHODS_Cloud_Services.pdf)
   - **Developer Adoption Program** - [PDF](https://github.com/RHEPDS/bootcamp/blob/main/DeveloperAdoptionPartnerBootcamp.pdf)  
   - **Edge Computing** - [PDF](https://github.com/RHEPDS/bootcamp/blob/main/OpenShift%20Edge.pdf)
-
+  - **How to run a great Demo** - [PDF](https://github.com/RHEPDS/bootcamp/blob/main/Introduction%20into%20story%20telling.pdf)
 (v1.2 29.11.23)
