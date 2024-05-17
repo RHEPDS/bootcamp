@@ -11,7 +11,7 @@ Slidedecks for the enablement Session
 ## Day 2 RHEL & Ansible
  - **RHEL** - [PDF](https://github.com/RHEPDS/bootcamp/blob/main/RHEL.pdf)
  - **Ansible Automation Platform 2** - [PDF](https://github.com/RHEPDS/bootcamp/blob/main/Red%20Hat%20Ansible%20Automation%20Platform%20Technical%20Deck%20-%20V230809.pdf)
- - **SAP Automation with Ansible** - [PDF](https://github.com/RHEPDS/bootcamp/blob/main/SAP-Automation.pdf)
+ - **Introduction to Red Hat SAP solutions** - [PDF](https://github.com/RHEPDS/bootcamp/blob/main/SAP-Intro.pdf)
 
 ## Day 3 Openshift Infrastructure
   - **Openshift Architecture & Plus** - [PDF](https://github.com/RHEPDS/bootcamp/blob/main/Partner%20Bootcamp%20OpenShift%20_%20PLUS.pdf)
